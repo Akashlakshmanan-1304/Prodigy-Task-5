@@ -1,0 +1,1 @@
+-This is a QR Code Scanner app which is the 5th task of the internship program conducted by Prodigy Info Tech.
